@@ -1,0 +1,17 @@
+Este trabajo es un ejemplo de cómo usar markdown para un trabajo de titulación (y además es mi tesis de licenciatura).
+
+Archivos:
+
+mi_chicago.csl<-----Reglas de citación adecuadas para el formato del ITAM
+Tesis.bib<----------Bibliografia en formato bib elaborada con Mendeley
+trabajo_titulacion<-Archivo markdown donde se estructura la investigación
+img<----------------Imagenes para la portada de la tesis
+
+
+quimicos.csv<-------Archivo de datos para tablas auxiliares
+quimicospaises.csv<-Archivo de datos para tablas auxiliares
+quimicosregion.csv<-Archivo de datos para tablas auxiliares
+residuos.csv<-------Archivo de datos para tablas auxiliares
+
+trabajo_titulacion.pdf<-Producto final
+
